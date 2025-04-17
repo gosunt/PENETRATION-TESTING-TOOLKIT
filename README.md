@@ -30,4 +30,4 @@ MENTOR: Neela Santhosh
 
 ##usage 
       main.py <arg>
-      
+      example #main.py --scan
