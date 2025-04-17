@@ -16,6 +16,8 @@ MENTOR: Neela Santhosh
 
 ##This is the entry point of your toolkit. It uses argparse to parse command-line options like:
 
+-h  help menu
+
 --scan: Runs a port scanner.
 
 --brute: Launches a brute-force attack.
