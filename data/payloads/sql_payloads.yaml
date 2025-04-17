@@ -1,0 +1,3 @@
+# sql_payloads.yaml
+- "' OR '1'='1"
+- "' UNION SELECT NULL--"

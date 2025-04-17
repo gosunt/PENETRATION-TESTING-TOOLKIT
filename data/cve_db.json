@@ -1,0 +1,4 @@
+# cve_db.json
+[
+    {"id": "CVE-2023-1234", "description": "Example exploit", "affected": "apache 2.4"}
+]
