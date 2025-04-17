@@ -34,3 +34,7 @@ MENTOR: Neela Santhosh
       main.py <arg>
 
             #main.py --scan
+
+
+ ##output
+       ![Image](https://github.com/user-attachments/assets/822ec6b4-3b1d-41e8-ac85-c8bdff5f972f)
